@@ -1,2 +1,2 @@
-# Movie-Recommender-Project
+# Movie Recommender Project
 Coming Soon...
